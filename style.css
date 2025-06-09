@@ -1,6 +1,38 @@
 /* The code below makes the background of the header black and the font color of the title white. Change this to match what you want for your website. */
 header {
-    background-color: black;
+        font-family: 'Sofia';font-size: 40px;
+
+    background-color: #1E3231;
     color: white;
     padding: 128px 16px;
+}
+iframe {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:400px;
+  border: 5px #1E3231 solid;
+  
+  
+
+
+}
+body{
+    background-color: #F6C0D0;
+}
+h3 {
+    text-align:center;
+    color: #1E3231
+}
+
+img{
+ display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:400px;
+    border: 5px #1E3231 solid;
+
+}
+.section{
+    color: #1E3231
 }
